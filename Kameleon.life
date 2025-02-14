@@ -4,4 +4,9 @@ git add .
 git commit -m "First commit"
 git branch -M main
 git push -u origin main
+cd ~
+git clone https://github.com/username/kameleon.life.git
+cd kameleon.life
+cd ~/kameleon.life
+git pull origin main
 
